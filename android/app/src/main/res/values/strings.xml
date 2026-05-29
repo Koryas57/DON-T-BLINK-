@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DON\'T BLINK</string>
+    <string name="title_activity_main">DON\'T BLINK</string>
+    <string name="package_name">com.dontblink.app</string>
+    <string name="custom_url_scheme">com.dontblink.app</string>
+</resources>
